@@ -1,0 +1,4 @@
+*.o
+*.a
+/hotrace
+.DS_Store
